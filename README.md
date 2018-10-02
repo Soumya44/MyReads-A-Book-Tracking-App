@@ -13,6 +13,13 @@
 3. Run `npm start` to start the app (It'll navigate to http://localhost:3000/ automatically)
 4. Press `CTRL + C` to stop the Server.
 
+### Build Production Version
+1. To build a production build, Go to the Project Base Directory then run `npm run build`
+2. Then run `serve -s build` to run the production server.
+3. Go to http://localhost:5000/ or the URL shown in the Command line Screen.
+4. Press `CTRL + C` to stop the Server.
+
+
 ### Regards,
 <a href="https://www.linkedin.com/in/soumya044">Soumya Ranjan Behera</a>
 
