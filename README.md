@@ -6,6 +6,8 @@
 
 * The main page has three shelves that users are able to move the books between shelves. The search page allows users to search for new books to add to their shelves. After selecting books to add to shelves, when you navigate back to the home page the you can instantly see the selections made on the search page. This project uses React's setState to build the functionality to move books from one shelf to another.
 
+*Track your readings, favorites and progress of the book reads using this Application
+
 ## Instructions to Run the App
 
 1. Clone this repository or Click <a href="https://github.com/Soumya44/MyReads-A-Book-Tracking-App.git">here</a>
